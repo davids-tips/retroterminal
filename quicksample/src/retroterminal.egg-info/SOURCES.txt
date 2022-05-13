@@ -1,0 +1,5 @@
+setup.py
+quicksample/src/retroterminal.egg-info/PKG-INFO
+quicksample/src/retroterminal.egg-info/SOURCES.txt
+quicksample/src/retroterminal.egg-info/dependency_links.txt
+quicksample/src/retroterminal.egg-info/top_level.txt
